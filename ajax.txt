@@ -1,0 +1,1 @@
+1000 Infantry 500 Cavalry 100 Airship
